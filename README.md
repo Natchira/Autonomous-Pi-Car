@@ -15,3 +15,12 @@ We developed a **Convolutional Neural Network (CNN)** model with **multi-output 
 
 This joint prediction allows for **smooth and real-time navigation** without manual input.
 
+---
+
+## Full Report
+
+For a complete explanation of the methodology, network architecture, experiments, and results,  
+please read the detailed report:  
+👉 [**Autonomous_Pi_Car_Report.pdf**](./Autonomous_Pi_Car_Report.pdf)
+
+---
